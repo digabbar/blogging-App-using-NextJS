@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import Hero from "../../Components/home-page/Hero";
+import Hero from "../../Components/home-page/hero";
 import FeaturedPosts from "../../Components/home-page/featured-posts";
 import Head from "next/head";
 import { getFeaturedPosts } from "../../lib/posts-util";
